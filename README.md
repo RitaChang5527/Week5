@@ -38,6 +38,7 @@
 成 test2。  
 >![image](https://github.com/RitaChang5527/Week5/assets/109656848/0b3aea27-a5a3-497c-ab8d-f9f35e00a27a)
 
+
 - [x] **要求四：SQL Aggregate Functions**
 ---------------------
 * 第一題
