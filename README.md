@@ -53,3 +53,16 @@
 >取得 member 資料表中，所有會員 follower_count 欄位的平均數。
 >![image](https://github.com/RitaChang5527/Week5/assets/109656848/82902493-9fdf-4df4-9dad-f3e319f9b2b7)
 
+- [x] **要求五：SQL JOIN**
+* 第一題
+> 使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者的姓名。
+> ![image](https://github.com/RitaChang5527/Week5/assets/109656848/7e3d8db0-bca3-4d19-b4f2-e35819128405)
+
+* 第二題
+> 使⽤ SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有
+留⾔，資料中須包含留⾔者的姓名。
+> ![image](https://github.com/RitaChang5527/Week5/assets/109656848/59730afc-7eb3-4037-bd99-2500c2c5dafa)
+
+* 第三題
+>使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中
+欄位 username 是 test 的所有留⾔平均按讚數。  
