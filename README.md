@@ -10,4 +10,7 @@
 > ![image](https://github.com/RitaChang5527/Week5/assets/109656848/eec19b27-44ae-47e3-8e0a-b10a0bf561be)
 > ![image](https://github.com/RitaChang5527/Week5/assets/109656848/83667f49-b33e-4ebf-93eb-e3ed7834b0f4)
 
+* 第二題
+> 使⽤ SELECT 指令取得所有在 member 資料表中的會員資料。  
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/f708a673-3dd5-4c63-b047-3f061de1e7b9)
 
