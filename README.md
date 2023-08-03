@@ -37,3 +37,14 @@
 >使⽤ UPDATE 指令更新欄位 username 是 test 的會員資料，將資料中的 name 欄位改
 成 test2。  
 >![image](https://github.com/RitaChang5527/Week5/assets/109656848/0b3aea27-a5a3-497c-ab8d-f9f35e00a27a)
+
+- [x] **要求四：SQL Aggregate Functions**
+
+* 第一題
+> 取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )。  
+> 
+* 第二題
+> 取得 member 資料表中，所有會員 follower_count 欄位的總和。
+
+*第三題
+>取得 member 資料表中，所有會員 follower_count 欄位的平均數。
