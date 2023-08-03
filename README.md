@@ -14,3 +14,8 @@
 > 使⽤ SELECT 指令取得所有在 member 資料表中的會員資料。  
 >![image](https://github.com/RitaChang5527/Week5/assets/109656848/f708a673-3dd5-4c63-b047-3f061de1e7b9)
 
+* 第三題
+> 使⽤ SELECT 指令取得所有在 member 資料表中的會員資料，並按照 time 欄位，由
+近到遠排序。
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/42e5651f-9934-4f35-bd2e-8138bea47aaf)
+
