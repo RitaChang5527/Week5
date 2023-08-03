@@ -43,9 +43,13 @@
 ---------------------
 * 第一題
 > 取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )。  
-> 
+> ![image](https://github.com/RitaChang5527/Week5/assets/109656848/310e5289-1822-4c32-893f-3dd179646338)
+
 * 第二題
-> 取得 member 資料表中，所有會員 follower_count 欄位的總和。
+> 取得 member 資料表中，所有會員 follower_count 欄位的總和。  
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/bcc3114f-c09e-4c29-a594-ed43b4fe1fa2)
 
 * 第三題
 >取得 member 資料表中，所有會員 follower_count 欄位的平均數。
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/82902493-9fdf-4df4-9dad-f3e319f9b2b7)
+
