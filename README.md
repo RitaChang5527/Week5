@@ -19,4 +19,21 @@
 近到遠排序。
 >![image](https://github.com/RitaChang5527/Week5/assets/109656848/4babc1a9-34a6-4095-a30a-d1df1166f1d3)
 
+* 第四題
+> 使⽤ SELECT 指令取得 member 資料表中第 2 到第 4 筆共三筆資料，並按照 time 欄
+位，由近到遠排序。 ( 並非編號 2、3、4 的資料，⽽是排序後的第 2 ~ 4 筆資料 )
+![image](https://github.com/RitaChang5527/Week5/assets/109656848/c39f625c-49e4-4539-b64c-7aeb3940b30c)
 
+* 第五題
+>使⽤ SELECT 指令取得欄位 username 是 test 的會員資料。
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/add34ca7-5b78-48ae-90c3-53b1b44421f1)
+
+
+* 第六題
+>使⽤ SELECT 指令取得欄位 username 是 test、且欄位 password 也是 test 的資料。
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/3f399641-760e-4e13-8758-47ada7ee7892)
+
+* 第七題
+* >使⽤ UPDATE 指令更新欄位 username 是 test 的會員資料，將資料中的 name 欄位改
+成 test2。
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/0b3aea27-a5a3-497c-ab8d-f9f35e00a27a)
