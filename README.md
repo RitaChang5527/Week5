@@ -55,7 +55,7 @@
 
 - [x] **要求五：SQL JOIN**
 * 第一題
-> 使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者的姓名。
+> 使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者的姓名。  
 > ![image](https://github.com/RitaChang5527/Week5/assets/109656848/7e3d8db0-bca3-4d19-b4f2-e35819128405)
 
 * 第二題
