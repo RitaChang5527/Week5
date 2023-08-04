@@ -65,4 +65,6 @@
 
 * 第三題
 >使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中
-欄位 username 是 test 的所有留⾔平均按讚數。  
+>欄位 username 是 test 的所有留⾔平均按讚數。  
+>![image](https://github.com/RitaChang5527/Week5/assets/109656848/0163fc55-1b30-4f1c-b36a-658f4c6b65a3)
+
