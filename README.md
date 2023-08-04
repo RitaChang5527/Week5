@@ -60,7 +60,7 @@
 
 * 第二題
 > 使⽤ SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有
-留⾔，資料中須包含留⾔者的姓名。
+留⾔，資料中須包含留⾔者的姓名。  
 > ![image](https://github.com/RitaChang5527/Week5/assets/109656848/59730afc-7eb3-4037-bd99-2500c2c5dafa)
 
 * 第三題
